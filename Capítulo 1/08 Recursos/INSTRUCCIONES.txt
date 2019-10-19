@@ -1,0 +1,10 @@
+1. ANACONDA
+- Se incluye instalador
+- https://www.anaconda.com/distribution/#download-section
+- Instrucciones https://docs.anaconda.com/anaconda/install/windows/
+
+2. ATOM
+- Se incluye instalador
+- https://atom.io/
+
+
